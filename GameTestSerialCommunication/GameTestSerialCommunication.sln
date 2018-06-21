@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTestSerialCommunication", "GameTestSerialCommunication\GameTestSerialCommunication\GameTestSerialCommunication.csproj", "{364C0107-5923-4B78-A708-F0D39781830D}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GameTestSerialCommunicationContent", "GameTestSerialCommunication\GameTestSerialCommunicationContent\GameTestSerialCommunicationContent.contentproj", "{384EBE31-612B-48ED-A7A2-07CD37C61390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{364C0107-5923-4B78-A708-F0D39781830D}.Debug|x86.ActiveCfg = Debug|x86
+		{364C0107-5923-4B78-A708-F0D39781830D}.Debug|x86.Build.0 = Debug|x86
+		{364C0107-5923-4B78-A708-F0D39781830D}.Release|x86.ActiveCfg = Release|x86
+		{364C0107-5923-4B78-A708-F0D39781830D}.Release|x86.Build.0 = Release|x86
+		{384EBE31-612B-48ED-A7A2-07CD37C61390}.Debug|x86.ActiveCfg = Debug|x86
+		{384EBE31-612B-48ED-A7A2-07CD37C61390}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

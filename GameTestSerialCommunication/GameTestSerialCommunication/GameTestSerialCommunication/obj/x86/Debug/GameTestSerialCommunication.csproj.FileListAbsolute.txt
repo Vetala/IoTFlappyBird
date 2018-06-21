@@ -1,0 +1,16 @@
+C:\Users\Lionel\Documents\HvA\FlappyBird Opdracht\GameTestSerialCommunication\GameTestSerialCommunication\GameTestSerialCommunication\bin\x86\Debug\GameTestSerialCommunication.exe
+C:\Users\Lionel\Documents\HvA\FlappyBird Opdracht\GameTestSerialCommunication\GameTestSerialCommunication\GameTestSerialCommunication\bin\x86\Debug\GameTestSerialCommunication.pdb
+C:\Users\Lionel\Documents\HvA\FlappyBird Opdracht\GameTestSerialCommunication\GameTestSerialCommunication\GameTestSerialCommunication\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Lionel\Documents\HvA\FlappyBird Opdracht\GameTestSerialCommunication\GameTestSerialCommunication\GameTestSerialCommunication\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Lionel\Documents\HvA\FlappyBird Opdracht\GameTestSerialCommunication\GameTestSerialCommunication\GameTestSerialCommunication\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Lionel\Documents\HvA\FlappyBird Opdracht\GameTestSerialCommunication\GameTestSerialCommunication\GameTestSerialCommunication\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Lionel\Documents\HvA\FlappyBird Opdracht\GameTestSerialCommunication\GameTestSerialCommunication\GameTestSerialCommunication\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Lionel\Documents\HvA\FlappyBird Opdracht\GameTestSerialCommunication\GameTestSerialCommunication\GameTestSerialCommunication\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Lionel\Documents\HvA\FlappyBird Opdracht\GameTestSerialCommunication\GameTestSerialCommunication\GameTestSerialCommunication\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Lionel\Documents\HvA\FlappyBird Opdracht\GameTestSerialCommunication\GameTestSerialCommunication\GameTestSerialCommunication\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Lionel\Documents\HvA\FlappyBird Opdracht\GameTestSerialCommunication\GameTestSerialCommunication\GameTestSerialCommunication\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Lionel\Documents\HvA\FlappyBird Opdracht\GameTestSerialCommunication\GameTestSerialCommunication\GameTestSerialCommunication\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Lionel\Documents\HvA\FlappyBird Opdracht\GameTestSerialCommunication\GameTestSerialCommunication\GameTestSerialCommunication\obj\x86\Debug\GameTestSerialCommunication.csprojResolveAssemblyReference.cache
+C:\Users\Lionel\Documents\HvA\FlappyBird Opdracht\GameTestSerialCommunication\GameTestSerialCommunication\GameTestSerialCommunication\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lionel\Documents\HvA\FlappyBird Opdracht\GameTestSerialCommunication\GameTestSerialCommunication\GameTestSerialCommunication\obj\x86\Debug\GameTestSerialCommunication.exe
+C:\Users\Lionel\Documents\HvA\FlappyBird Opdracht\GameTestSerialCommunication\GameTestSerialCommunication\GameTestSerialCommunication\obj\x86\Debug\GameTestSerialCommunication.pdb
