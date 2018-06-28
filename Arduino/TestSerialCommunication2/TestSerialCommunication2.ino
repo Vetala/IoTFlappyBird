@@ -17,7 +17,16 @@ void loop() {
   buttonState = digitalRead(buttonPin);
   if (buttonState == LOW)
   {
-    Serial.println("Jump");
+    Serial.println("1");
+  } else {
+    Serial.println("0");
   }
-  delay(500);
+  delay(500); 
+
+//added from Rotarytest
+    // read the input on analog pin 0:
+  int sensorValue = analogRead(A0);
+  // print out the value you read:
+  Serial.println(sensorValue);
+  delay(100);        // delay in between reads for stability
 }
